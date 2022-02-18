@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## React Project 2
 
 You can use the [editor on GitHub](https://github.com/AliMora83/react_solo_p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
